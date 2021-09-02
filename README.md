@@ -14,9 +14,7 @@
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
   <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=d7chau&show_icons=true&theme=react&&hide_border=true"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=d7chau&show_icons=true&hide_border=true&theme=react&hide=contribs,issues" />  
   <br />
   <br />
   <img
