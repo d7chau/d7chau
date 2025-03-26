@@ -1,10 +1,9 @@
 # 💫 About Me:
 ☁️ Salesforce Marketing Cloud Developer @ BMO<br>🏆 4x Salesforce Certified Professional<br> 🏞️ Trailhead Ranger (123+ Badges)
 
-
 ## 🌐 Socials:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/d7chau/) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/d7chau) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/d7chau)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/d7chau/) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/d7chau) [![Portfolio](https://img.shields.io/badge/Portfolio_Site-F24E1E?logo=svelte&logoColor=white)](https://dennischau.com/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/d7chau)
 
 
 # 💻 Tech Stack:
