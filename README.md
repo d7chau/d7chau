@@ -1,5 +1,5 @@
 # 💫 About Me:
-☁️ Salesforce Marketing Cloud Developer @ BMO<br>🏆 5x Salesforce Certified Professional<br> 🏞️ Trailhead Ranger (140+ Badges)
+☁️ Salesforce Marketing Cloud Developer @ BMO<br>🏆 6x Salesforce Certified Professional<br> 🏞️ Trailhead Ranger (140+ Badges)
 
 ## 🌐 Socials:
 
